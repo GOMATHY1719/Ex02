@@ -19,6 +19,7 @@
   Open the file in a browser and verify the output.
   
 ## CODE
+```
 <html>
     <head>
        <title>saveetha engg college</title> 
@@ -52,7 +53,7 @@
     </ol>
     </body>
 </html>
-
+```
 ## OUTPUT
 ![alt text](list.png)
 
